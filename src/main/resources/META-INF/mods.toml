@@ -56,7 +56,7 @@ Actual Science adds a science system that is more realistic than vanilla Minecra
     versionRange="[1.16.5,1.17)"
     ordering="NONE"
     side="BOTH"
-[[dependecies.actualscience]]
+[[dependencies.actualscience]]
     modId="actualcore"
     mandatory=true
     versionRange="[0.1,)"
