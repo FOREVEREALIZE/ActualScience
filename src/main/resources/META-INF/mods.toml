@@ -29,9 +29,9 @@ displayName="Actual Science" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="icon.png" #optional
 # A text field displayed in the mod UI
-credits="" #optional
+credits="Foreverealize" #optional
 # A text field displayed in the mod UI
-authors="FOREVEREALIZE" #optional
+authors="The Actual Team" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 Actual Science adds a science system that is more realistic than vanilla Minecraft's one.
